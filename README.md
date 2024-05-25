@@ -1,1 +1,1 @@
-# Internet_speed_checker
+# typing_speed_timer
